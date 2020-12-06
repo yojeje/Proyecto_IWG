@@ -14,7 +14,7 @@ Avances al 21-11:
 Se adjunta la actualizacion de la planificacion del proyecto.
 Video de la primera entrega (https://drive.google.com/file/d/1av_2r1D2u_geqeZQDS7dCr5EZVBg8pit/view?usp=sharing)
 
-Avance al 05-11:
+Avance al 05-12:
 
 Retraso en el desarrollo del proyecto, debido al no uso de un framework para la escritura de la estructura tipo backend del sitio web. 
 Debido al no respaldo del proyecto escrito en PHP, se adjunta el avance realizado en el estudio y escritura de la implementacion del framework "django"
