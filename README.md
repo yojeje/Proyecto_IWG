@@ -17,4 +17,4 @@ Video de la primera entrega (https://drive.google.com/file/d/1av_2r1D2u_geqeZQDS
 Avance al 05-11:
 
 Retraso en el desarrollo del proyecto, debido al no uso de un framework para la escritura de la estructura tipo backend del sitio web. 
-Se adjunta desarrollo del proyecto escrito con PHP y Mysql para la estructura anteriormente enunciada.
+Debido al no respaldo del proyecto escrito en PHP, se adjunta el avance realizado en el estudio y escritura de la implementacion del framework "django"
