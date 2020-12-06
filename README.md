@@ -10,5 +10,11 @@ Se adjunta ficha del proyecto donde se señalan todos los detalles, incluidas, l
 Se adjunta presentacion del día 09-11
 
 Avances al 21-11:
+
 Se adjunta la actualizacion de la planificacion del proyecto.
 Video de la primera entrega (https://drive.google.com/file/d/1av_2r1D2u_geqeZQDS7dCr5EZVBg8pit/view?usp=sharing)
+
+Avance al 05-11:
+
+Retraso en el desarrollo del proyecto, debido al no uso de un framework para la escritura de la estructura tipo backend del sitio web. 
+Se adjunta desarrollo del proyecto escrito con PHP y Mysql para la estructura anteriormente enunciada.
